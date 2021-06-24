@@ -29,12 +29,12 @@ public class IgualdadRelacionales {
         } else {
             System.out.println("No es par =" + a % 2);
         }
-        
+
         var edad = 30;
         var adulto = 18;
-        if(edad >= adulto){
+        if (edad >= adulto) {
             System.out.println("es adulto");
-        }else{
+        } else {
             System.out.println("no es adulto");
         }
 
